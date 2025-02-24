@@ -281,11 +281,11 @@ has been divided to five parts 4s to each word)*/
 .heading{
         font-size: 8rem;
         text-align: center;
-        margin: 5rem 0;
+        margin: 5rem auto;
 }
 
 .education{
-    padding: 100px;
+    padding: 10%;
     background: var(--second-bg-color);
 }
 
@@ -578,9 +578,9 @@ left: 7px;
 }
 
 .heading{
-    font-size: 5rem;
+    font-size: 4rem;
     text-align: center;
-    margin: 5rem 0;
+    margin: 5rem auto;
 }
 
 .services h2{
