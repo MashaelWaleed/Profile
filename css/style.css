@@ -613,7 +613,11 @@ left: 7px;
     }
     
     @media(max-width:400px){
-    
+        .services-container{
+            padding-bottom :6rem;
+            margin: 0 3rem;}
+        
+        }
     
     .home-content h3{
         font-size: 2.3rem;
